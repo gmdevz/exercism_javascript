@@ -10,11 +10,12 @@ To run a solution:
 
 1. Make sure you have [Node.js](https://nodejs.org/) installed.
 2. Clone the repo:
-   ```bash
+   ```
    git clone https://github.com/yourusername/exercism-javascript-track.git
    ```
 3. Navigate to an exercise folder:
-   ```cd exercise-name
+   ```
+   cd exercise-name
    node solution.js
    ```
 
